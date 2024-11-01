@@ -2,7 +2,7 @@
 
 # Protea Technology Services LLC
 
-![Protea Technology Services Logo](https://www.proteatech.dev/assets/logo.png) <!-- Replace with an actual link to your logo if available -->
+![Protea Technology Services Logo](https://www.proteatech.dev/logo.png) <!-- Replace with an actual link to your logo if available -->
 
 Welcome to **Protea Technology Services LLC**! We are a custom software development agency specializing in building high-quality, scalable web and mobile applications. Our team leverages modern technologies like Flutter, Next.js, and Firebase to deliver seamless user experiences and robust backend solutions. 
 
@@ -48,10 +48,10 @@ Our mission is to empower businesses with reliable and innovative software solut
 
 ## 🧩 Featured Projects
 
-### Hello Athlete
+### [Hello Athlete](https://helloathlete.app)
 An app designed to help athletes connect, share achievements, and engage with their community. Built using Flutter and Firebase, Hello Athlete provides an intuitive, cross-platform experience with features like user authentication, post creation, and an explore page.
 
-### Epic Drone Tours Platform
+### [Epic Drone Tours: FlyView Platform](https://app.epicdronetours.app)
 A media platform built for Epic Drone Tours, allowing users to showcase 360° media for hotels, houses, and commercial spaces. Using Next.js and Mux for streaming, we designed this platform to support high-quality video playback and seamless user interaction.
 
 ## 💡 Why Choose Us?
@@ -66,7 +66,7 @@ A media platform built for Epic Drone Tours, allowing users to showcase 360° me
 If you're interested in working with us or have any questions, feel free to reach out:
 
 - **Website**: [https://www.proteatech.dev](https://www.proteatech.dev)
-- **Email**: [contact@proteatech.dev](mailto:contact@proteatech.dev)
+- **Email**: [info@proteatech.dev](mailto:info@proteatech.dev)
 - **Location**: Based in San Diego, California
 
 ---
