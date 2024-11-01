@@ -2,7 +2,9 @@
 
 # Protea Technology Services LLC
 
-![Protea Technology Services Logo](https://www.proteatech.dev/logo.png) <!-- Replace with an actual link to your logo if available -->
+<p align="center">
+<img src="https://dev.proteatech.dev/lockup.png" alt="logo" title="Protea Technology Services" width="auto" height="250" /> 
+</p>
 
 Welcome to **Protea Technology Services LLC**! We are a custom software development agency specializing in building high-quality, scalable web and mobile applications. Our team leverages modern technologies like Flutter, Next.js, and Firebase to deliver seamless user experiences and robust backend solutions. 
 
